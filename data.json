@@ -6,7 +6,7 @@
             "session_name": "Practice",
             "results": {
                 "Anton Griev": 36.839,
-                "Dimitri Anisimov": 38.222,
+                "Dmitrii Anisimov": 38.222,
                 "Fedor Lebed": 40.679
             }
         },
@@ -16,7 +16,7 @@
             "session_name": "Race 1",
             "results": {
                 "Anton Griev": 36.85,
-                "Dimitri Anisimov": 38.222,
+                "Dmitrii Anisimov": 38.222,
                 "Fedor Lebed": 39.531
             }
         },
@@ -25,9 +25,9 @@
             "track": "JAGODINA",
             "session_name": "Race 2",
             "results": {
-                "Dimitri Anisimov": null,
-                "Fedor Lebed": 39.328,
-                "Anton Griev": 37.069
+                "Anton Griev": 37.069,
+                "Dmitrii Anisimov": null,
+                "Fedor Lebed": 39.328
             }
         },
         {
@@ -39,7 +39,9 @@
                 "Aleksandar Karaulic": 49.346,
                 "Aleksandar Budic": 48.729,
                 "Fedor Lebed": 48.784,
-                "Dimitri Anisimov": 51.238
+                "Dmitrii Anisimov": 51.238,
+                "Mikhail Bombin": 51.335,
+                "Anton Griev": null
             }
         },
         {
@@ -51,7 +53,9 @@
                 "Aleksandar Karaulic": 47.219,
                 "Fedor Lebed": 47.405,
                 "Aleksandar Budic": 48.053,
-                "Dimitri Anisimov": 48.215
+                "Dmitrii Anisimov": 48.215,
+                "Mikhail Bombin": 49.58,
+                "Anton Griev": null
             }
         },
         {
@@ -60,10 +64,12 @@
             "session_name": "Race 1",
             "results": {
                 "Aleksei Ivanov": 46.183,
-                "Dimitri Anisimov": 46.86,
+                "Dmitrii Anisimov": 46.86,
                 "Aleksandar Karaulic": 47.223,
                 "Aleksandar Budic": 47.22,
-                "Fedor Lebed": 47.22
+                "Fedor Lebed": 47.22,
+                "Mikhail Bombin": 49.186,
+                "Anton Griev": null
             }
         },
         {
@@ -72,10 +78,72 @@
             "session_name": "Race 2",
             "results": {
                 "Aleksei Ivanov": 46.402,
-                "Dimitri Anisimov": 46.16,
+                "Dmitrii Anisimov": 46.16,
                 "Aleksandar Karaulic": 46.497,
                 "Aleksandar Budic": 48.181,
-                "Fedor Lebed": 46.973
+                "Fedor Lebed": 46.973,
+                "Mikhail Bombin": 49.283,
+                "Anton Griev": null
+            }
+        },
+        {
+            "date": "2024-05-31",
+            "track": "Kula",
+            "session_name": "QP",
+            "results": {
+                "Dmitrii Anisimov": 38.8,
+                "Anton Griev": 39.123,
+                "Fedor Lebed": 41.428
+            }
+        },
+        {
+            "date": "2024-05-31",
+            "track": "Kula",
+            "session_name": "Race 1",
+            "results": {
+                "Dmitrii Anisimov": 37.997,
+                "Anton Griev": 37.971,
+                "Fedor Lebed": 40.162
+            }
+        },
+        {
+            "date": "2024-05-31",
+            "track": "Kula",
+            "session_name": "Race 2",
+            "results": {
+                "Dmitrii Anisimov": 37.346,
+                "Anton Griev": 37.666,
+                "Fedor Lebed": 39.396
+            }
+        },
+        {
+            "date": "2024-05-31",
+            "track": "Kula",
+            "session_name": "Race 3",
+            "results": {
+                "Dmitrii Anisimov": 37.543,
+                "Anton Griev": 37.674,
+                "Fedor Lebed": 39.629
+            }
+        },
+        {
+            "date": "2024-04-10",
+            "track": "Kula",
+            "session_name": "QP (Provisional)",
+            "results": {
+                "Dmitrii Anisimov": 41.753,
+                "Anton Griev": 40.972,
+                "Fedor Lebed": 45.719
+            }
+        },
+        {
+            "date": "2024-04-10",
+            "track": "Kula",
+            "session_name": "Race",
+            "results": {
+                "Dmitrii Anisimov": 43.469,
+                "Anton Griev": 40.693,
+                "Fedor Lebed": 47.394
             }
         }
     ]
