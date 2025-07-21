@@ -1,0 +1,60 @@
+{
+    "sessions": [
+        {
+            "date": "2025-06-22",
+            "track": "JAGODINA",
+            "session_name": "Practice",
+            "results": {
+                "Fedor Lebed": 40.679
+            }
+        },
+        {
+            "date": "2025-06-22",
+            "track": "JAGODINA",
+            "session_name": "Race 1",
+            "results": {
+                "Fedor Lebed": 39.531
+            }
+        },
+        {
+            "date": "2025-06-22",
+            "track": "JAGODINA",
+            "session_name": "Race 2",
+            "results": {
+                "Fedor Lebed": 39.328
+            }
+        },
+        {
+            "date": "2025-07-20",
+            "track": "NAVAK",
+            "session_name": "Q1",
+            "results": {
+                "Fedor Lebed": 48.784
+            }
+        },
+        {
+            "date": "2025-07-20",
+            "track": "NAVAK",
+            "session_name": "Q2",
+            "results": {
+                "Fedor Lebed": 47.405
+            }
+        },
+        {
+            "date": "2025-07-20",
+            "track": "NAVAK",
+            "session_name": "Race 1",
+            "results": {
+                "Fedor Lebed": 47.22
+            }
+        },
+        {
+            "date": "2025-07-20",
+            "track": "NAVAK",
+            "session_name": "Race 2",
+            "results": {
+                "Fedor Lebed": 46.973
+            }
+        }
+    ]
+}

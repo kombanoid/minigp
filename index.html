@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MiniGP Racing Progression Visualizer</title>
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@700&family=Roboto:wght@400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.4"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns@3.0.0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.2.0"></script>
+</head>
+<body>
+    <div class="header">
+        <div class="header-content">
+            <h1>MiniGP Racing Progression</h1>
+            <button id="download-data">Download Data</button>
+        </div>
+    </div>
+    <div class="container">
+        <!-- GLOBAL SETTINGS -->
+        <div class="global-settings" style="margin-bottom: 24px;">
+            <span class="global-settings-title">Global Settings:</span>
+            <label>
+                Unselected Rider Transparency:
+                <input type="range" id="unselected-alpha" min="0" max="1" step="0.01" value="0.18" style="vertical-align: middle; width: 100px;">
+                <span id="unselected-alpha-value">0.18</span>
+            </label>
+            <label style="margin-left: 24px;">
+                <input type="checkbox" id="show-best-times" checked style="vertical-align: middle;">
+                Show Best Times Next to Names
+            </label>
+        </div>
+        <div class="controls">
+            <div class="control-group">
+                <div class="group-title">Tracks</div>
+                <div class="control-actions">
+                    <button id="toggle-tracks" class="toggle-button">Show More</button>
+                    <button id="select-all-tracks" class="select-all-button">Select All</button>
+                </div>
+                <ul id="track-list" class="selection-list"></ul>
+                <div class="note">Select tracks to display</div>
+            </div>
+            <div class="control-group">
+                <div class="group-title">Riders</div>
+                <div class="control-actions">
+                    <button id="toggle-riders" class="toggle-button">Show More</button>
+                    <button id="select-all-riders" class="select-all-button">Select All</button>
+                </div>
+                <ul id="rider-list" class="selection-list"></ul>
+                <div class="note">Select riders to display</div>
+            </div>
+        </div>
+        <div id="charts-container"></div>
+    </div>
+    <script src="main.js"></script>
+</body>
+</html>

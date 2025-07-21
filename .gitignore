@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# System files
+Thumbs.db
+Desktop.ini
+
+# Private data
+private_data.json
+whitelist.json
