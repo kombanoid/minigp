@@ -5,6 +5,8 @@
             "track": "JAGODINA",
             "session_name": "Practice",
             "results": {
+                "Anton Griev": 36.839,
+                "Dimitri Anisimov": 38.222,
                 "Fedor Lebed": 40.679
             }
         },
@@ -13,6 +15,8 @@
             "track": "JAGODINA",
             "session_name": "Race 1",
             "results": {
+                "Anton Griev": 36.85,
+                "Dimitri Anisimov": 38.222,
                 "Fedor Lebed": 39.531
             }
         },
@@ -21,7 +25,9 @@
             "track": "JAGODINA",
             "session_name": "Race 2",
             "results": {
-                "Fedor Lebed": 39.328
+                "Dimitri Anisimov": null,
+                "Fedor Lebed": 39.328,
+                "Anton Griev": 37.069
             }
         },
         {
@@ -29,7 +35,11 @@
             "track": "NAVAK",
             "session_name": "Q1",
             "results": {
-                "Fedor Lebed": 48.784
+                "Aleksei Ivanov": 47.742,
+                "Aleksandar Karaulic": 49.346,
+                "Aleksandar Budic": 48.729,
+                "Fedor Lebed": 48.784,
+                "Dimitri Anisimov": 51.238
             }
         },
         {
@@ -37,7 +47,11 @@
             "track": "NAVAK",
             "session_name": "Q2",
             "results": {
-                "Fedor Lebed": 47.405
+                "Aleksei Ivanov": 46.551,
+                "Aleksandar Karaulic": 47.219,
+                "Fedor Lebed": 47.405,
+                "Aleksandar Budic": 48.053,
+                "Dimitri Anisimov": 48.215
             }
         },
         {
@@ -45,6 +59,10 @@
             "track": "NAVAK",
             "session_name": "Race 1",
             "results": {
+                "Aleksei Ivanov": 46.183,
+                "Dimitri Anisimov": 46.86,
+                "Aleksandar Karaulic": 47.223,
+                "Aleksandar Budic": 47.22,
                 "Fedor Lebed": 47.22
             }
         },
@@ -53,6 +71,10 @@
             "track": "NAVAK",
             "session_name": "Race 2",
             "results": {
+                "Aleksei Ivanov": 46.402,
+                "Dimitri Anisimov": 46.16,
+                "Aleksandar Karaulic": 46.497,
+                "Aleksandar Budic": 48.181,
                 "Fedor Lebed": 46.973
             }
         }
